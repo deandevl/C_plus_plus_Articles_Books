@@ -23,3 +23,8 @@ namespace types {
     // std::cout << "NaN: " << nan << "\n";
   }
 }
+
+int main() {
+  types::float_formats();
+  return 0;
+}

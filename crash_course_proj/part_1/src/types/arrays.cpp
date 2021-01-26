@@ -27,8 +27,6 @@ namespace types {
     int my_array_3[array_length]{}; //initializes all elements to zero
     int my_array_4[5];  //elements are uninitialized -- values could be anything
 
-    std::cout << "-----------------Arrays-----------------------" << "\n";
-
     // -----------------finding the size----------------
     // to find the number of elements in an array use std::size() from <iterator>
     std::cout << "\nThe number of elemnets of my_array_1: " << std::size(my_array_1) << "\n";
@@ -77,4 +75,9 @@ namespace types {
                  };
     std::cout << "A book holds " << house << "\n";
   }
+}
+
+int main(){
+  types::arrays();
+  return 0;
 }

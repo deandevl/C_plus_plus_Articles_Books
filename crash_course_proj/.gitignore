@@ -127,3 +127,5 @@ fabric.properties
 .idea/vcs.xml
 cmake-build-debug/
 
+.idea/inspectionProfiles/
+.idea

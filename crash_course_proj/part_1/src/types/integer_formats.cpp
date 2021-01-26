@@ -39,3 +39,7 @@ namespace types {
   }
 }
 
+int main() {
+  types::integer_formats();
+  return 0;
+}

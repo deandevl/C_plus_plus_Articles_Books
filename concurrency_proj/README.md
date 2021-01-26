@@ -1,0 +1,1 @@
+This project directory contains c++ code from the book [C++ Concurrency in Action](https://www.manning.com/books/c-plus-plus-concurrency-in-action-second-edition) by Anthony Williams.

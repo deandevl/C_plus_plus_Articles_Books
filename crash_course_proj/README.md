@@ -1,0 +1,1 @@
+This project directory contains c++ code from the book [C++ Crash Course](https://ccc.codes/) by Josh Lospinoso
